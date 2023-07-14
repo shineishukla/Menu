@@ -1,5 +1,5 @@
 # SHAILJA'S CAFE
-This is a simple website for Shailja's Cafe, showcasing the menu, location, and contact information.
+This is a simple website for Shailja's Cafe, showcasing the menu, dishes with prices.
 
 ## Technologies Used
 - HTML
